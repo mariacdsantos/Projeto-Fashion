@@ -1,5 +1,7 @@
 body {
-    margin: 0;
+    border: 100px;
+    margin: 100px;
+    margin-top: 10px;
     background-color: white;
     color: rgb(0, 0, 0);
     font-family: Arial, Helvetica, sans-serif;
@@ -12,6 +14,11 @@ body {
 }
 h1,h2{
     font-size: 40px;
+}
+h3{
+    font-size: 20px;
+    letter-spacing: 3px;
+    
 }
 
 .cabecalho {
@@ -41,7 +48,6 @@ h1,h2{
 }
 
 .menu-lista li {
-    float: inline-end;
     padding: 1px 1px 0 0;
     float: right;
     display: inline-block;
@@ -67,6 +73,10 @@ h1,h2{
 .secao{
     text-align: center;
 }
-#imagem-topo{
-    padding-right: 100px;
+.secao-secao-imagens{
+    padding-top: 50px
+}
+.container-nomes{
+    text-align: center;
+
 }
