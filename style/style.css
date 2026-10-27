@@ -80,3 +80,10 @@ h3{
     text-align: center;
 
 }
+#detalhe{
+  width: 90%;
+  max-width: 1000px;
+  margin: 0 auto;
+  margin-top: 40px;
+    
+}
